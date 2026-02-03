@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+###Cytometry in R - Starter Questions
+
+- Favorite Fluorophore: RB780
+
+- Previous coding experience: Calling IT
+
+- What I hope to get from this experience: Be able to analyze my flow data more easily and generate visualizations
+
+
+
 <!--
 **Kathyh1/kathyh1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
